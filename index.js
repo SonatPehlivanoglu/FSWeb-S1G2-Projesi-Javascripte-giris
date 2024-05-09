@@ -20,6 +20,13 @@ Aşağıdakileri yap:
    İPUCU: fonksiyon oluşturmaya gerek yok
 */
 
+let surucuYasi = 15;
+if (surucuYasi < 18) {
+  console.log(false);
+} else {
+  console.log(true);
+}
+
 /*
 Görev 1b - Değerler (puanlamaya dahil değildir)
 
